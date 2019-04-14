@@ -8,3 +8,5 @@ Here I will be uploading the .aia file where the algorithm for list picking for 
 
 
 Apk of the app can be downloaded by building the app in mit app inveneter website.
+
+Import the .aia file not zip file on mit app inventer if you wish to change.
