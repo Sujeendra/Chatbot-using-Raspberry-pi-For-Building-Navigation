@@ -5,3 +5,6 @@ In the master branch there was a problem with multithreading that is multipe use
 
 Our Client app is built using MIT App inveneter......
 Here I will be uploading the .aia file where the algorithm for list picking for different options required for navigation is written and even design of the app can be changed. Database can be changed according to the building location details.
+
+
+Apk of the app can be downloaded by building the app in mit app inveneter website.
